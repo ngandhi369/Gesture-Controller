@@ -8,12 +8,15 @@
 * We make a Gesture Based Keyboard Interface using Webcam so that one can type things in a new Interactive way.
 The Way it Works is using your Hand gesture and Eye tracking to use the Gui keyboard and mouse to Interact With it.
 
+![GUI Image](https://github.com/ngandhi369/Gesture-Controller/blob/master/GUI.png?raw=true)
+
 ## Key Features:-
 * Developed python exe file setup using tkinter to fully control mouse & keyboard movements by human hand & eye gestures.
 * It works with the help of different libraries and packages like OpenCV, Mediapipe, Cvzone, Dlib, Haar Cascade, etc.
 * Also included Voice & basic storage features. Helpful in such a circumstances like COVID-19.
 
 ## Dependencies:-
+
 * ### CvZone
 * ### Pynput
 * ### HaarCascade
@@ -22,8 +25,6 @@ The Way it Works is using your Hand gesture and Eye tracking to use the Gui keyb
 * ### Mediapipe
 * ### auto-py-to-exe
 * ### Dlib
-
-![GUI Image](https://github.com/ngandhi369/Gesture-Controller/blob/master/GUI.png?raw=true)
 
 ![GC Image](https://github.com/ngandhi369/Gesture-Controller/blob/master/gc.jpg?raw=true)
 
