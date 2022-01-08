@@ -28,5 +28,5 @@ The Way it Works is using your Hand gesture and Eye tracking to use the Gui keyb
 ![GC Image](https://github.com/ngandhi369/Gesture-Controller/blob/master/gc.jpg?raw=true)
 
 ## References:-
-* [Demo Link](https://drive.google.com/file/d/1swmmA05yG83uVJiyZJT6lMpWhf7o_nkY/view?usp=sharing)
-* [Reference link for dat file](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
+* > ###  [Demo Link](https://drive.google.com/file/d/1swmmA05yG83uVJiyZJT6lMpWhf7o_nkY/view?usp=sharing)
+* > ###  [Reference link for .dat file](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
