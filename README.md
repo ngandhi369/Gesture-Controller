@@ -1,5 +1,7 @@
 # Gesture-Controller
-## Team Member:- Meet Variya - https://github.com/meetvariya
+
+## Team Member:-
+* **Meet Variya** - https://github.com/meetvariya
 
 ## Problems:-
 * Many of the Disabled People find it difficult to write using keyboard ,Also in Covid Situation many people don’t want to touch stuff that’s related to Covid.
